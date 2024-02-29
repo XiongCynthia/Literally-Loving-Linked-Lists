@@ -1,4 +1,4 @@
-# Literally-Loving-Linked-Lists
+# Literally Loving Linked Lists
 
 [Linked_List.py](https://github.com/XiongCynthia/Literally-Loving-Linked-Lists/blob/main/Linked_List.py) contains code for a sentineled, doubly linked list implementation designed with fundamental programming paradigms and optimization in mind.
 
